@@ -18,7 +18,10 @@
 * 9. Lalu Program akan mengoutputkan semua data yang telah di olah.
 * 10. Program selesai.
 
-* **Flowchart Program 4**
+# Flowchart Program
 
   <img width="390" alt="ssv" src="https://user-images.githubusercontent.com/56913656/69491459-2b3eb780-0ec8-11ea-90b7-f5ee8de7f190.png">
 
+# Tampilan program
+
+  <img width="489" alt="ssprogram4" src="https://user-images.githubusercontent.com/56913656/69491810-db162400-0ecc-11ea-8352-dd2a1003db1b.png">
