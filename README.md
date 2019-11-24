@@ -19,3 +19,6 @@
 * 10. Program selesai.
 
 * **Flowchart Program 4**
+
+  <img width="390" alt="ssv" src="https://user-images.githubusercontent.com/56913656/69491459-2b3eb780-0ec8-11ea-90b7-f5ee8de7f190.png">
+
