@@ -20,7 +20,7 @@
 
 # Flowchart Program
 
-  <img width="390" alt="ssv" src="https://user-images.githubusercontent.com/56913656/69491459-2b3eb780-0ec8-11ea-90b7-f5ee8de7f190.png">
+  <img width="427" alt="Flowchart" src="https://user-images.githubusercontent.com/56913656/69908812-3e4f0b80-1423-11ea-9483-b5db52e2bfc0.png">
 
 # Tampilan program
 
